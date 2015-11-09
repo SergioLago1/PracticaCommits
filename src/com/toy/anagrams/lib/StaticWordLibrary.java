@@ -39,7 +39,6 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         "abstraction",
-        "ambiguous",
         "arithmetic",
         "backslash",
         "bitmap",
